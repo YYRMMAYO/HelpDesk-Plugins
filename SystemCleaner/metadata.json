@@ -1,0 +1,9 @@
+{
+  "Id": "system-cleaner",
+  "Name": "系统清理",
+  "Description": "清理临时文件、管理启动项、释放磁盘空间",
+  "Version": "1.0.0",
+  "Author": "HelpDesk",
+  "DllName": "HelpDesk.Plugins.SystemCleaner.dll",
+  "Tags": ["清理", "临时文件", "启动项", "磁盘"]
+}

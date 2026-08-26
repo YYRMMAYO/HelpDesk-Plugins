@@ -1,0 +1,9 @@
+{
+  "Id": "system-diagnostics",
+  "Name": "系统诊断",
+  "Description": "检测 CPU、内存、磁盘使用状态，监控温度，评估系统健康度",
+  "Version": "1.0.0",
+  "Author": "HelpDesk",
+  "DllName": "HelpDesk.Plugins.SystemDiagnostics.dll",
+  "Tags": ["诊断", "性能", "硬件", "监控"]
+}

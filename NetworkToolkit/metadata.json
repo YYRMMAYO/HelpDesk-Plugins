@@ -1,0 +1,9 @@
+{
+  "Id": "network-toolkit",
+  "Name": "网络工具",
+  "Description": "WiFi 状态检测、DNS 诊断、网络速度测试",
+  "Version": "1.0.0",
+  "Author": "HelpDesk",
+  "DllName": "HelpDesk.Plugins.NetworkToolkit.dll",
+  "Tags": ["网络", "WiFi", "DNS", "速度测试"]
+}
