@@ -12,12 +12,12 @@
     "提权"
   ],
   "DllName": "HelpDesk.Plugins.SoftwareUninstaller.dll",
-  "Size": 55808,
+  "Size": 56832,
   "Files": [
     {
       "Path": "HelpDesk.Plugins.SoftwareUninstaller.dll",
-      "Size": 55808,
-      "Sha256": "59fc37f3b5f7e1d5e982d767ebac892765f3a5699b21a2bf9a8ee1b66ba47277"
+      "Size": 56832,
+      "Sha256": "c11a5d821168d1785cd8acf6d1aaf6c0ca69b06669e54cf2a230f5ffcaf09ed0"
     }
   ]
 }
