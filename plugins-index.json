@@ -1,7 +1,7 @@
 {
   "Version": 1,
   "LayoutPrefix": "",
-  "Note": "由 tools/PluginPackager 自动生成于 2026-09-24 21:28:54，请勿手工编辑",
+  "Note": "由 tools/PluginPackager 自动生成于 2026-09-24 21:31:24，请勿手工编辑",
   "Plugins": [
     {
       "Id": "troubleshoot-guide",
@@ -23,7 +23,7 @@
         {
           "Path": "HelpDesk.Plugins.TroubleshootGuide.dll",
           "Size": 14848,
-          "Sha256": "e99de89c9b5b594bd27c0c31d3498c640177316e822d3f6330c067aeaa16f25b"
+          "Sha256": "fabfc976486cbccce14e0f6bf64c7de0afa01b130225e466f0bb5096f1dc1b38"
         }
       ]
     },
@@ -45,7 +45,7 @@
         {
           "Path": "HelpDesk.Plugins.SystemCleaner.dll",
           "Size": 19968,
-          "Sha256": "314c92d82eb0157f83c3be30550bc5a2e69ea75682ddcb2716f2587cdd7357d8"
+          "Sha256": "b9feee0aa2156c3d95087b60e5b01f151cdad30790496b470c90442fd958de4c"
         }
       ]
     },
@@ -68,7 +68,7 @@
         {
           "Path": "HelpDesk.Plugins.SystemDiagnostics.dll",
           "Size": 18944,
-          "Sha256": "4cef788c697e2bc6072d58004afe715662c384eed5bde2e2e5219d1763431850"
+          "Sha256": "27848f45bd3fb8fbd81e44c5de245db14dcc88b599c107233e7c64dbbfd22836"
         }
       ]
     },
@@ -92,7 +92,7 @@
         {
           "Path": "HelpDesk.Plugins.NetworkToolkit.dll",
           "Size": 56832,
-          "Sha256": "dd7e0f5ad825afa2d291c21387b9cccc2fbe253e75b323ed04fc4947bfe43340"
+          "Sha256": "25396c19b08b78f5b84c5958378206cddcf88f8e092b5b8144009908890bd487"
         }
       ]
     },
@@ -115,7 +115,7 @@
         {
           "Path": "HelpDesk.Plugins.SoftwareUninstaller.dll",
           "Size": 56832,
-          "Sha256": "6089c8ae3d90d28932c6e26e30726a1a78a82ede107615aea5920d2d1f8637aa"
+          "Sha256": "237b2a78b070e921cc713f87a7b54b848d215974687d22b0650d85946939c943"
         }
       ]
     }
