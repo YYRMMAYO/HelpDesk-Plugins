@@ -1,9 +1,24 @@
 {
   "Id": "network-toolkit",
   "Name": "网络工具",
-  "Description": "WiFi 状态检测、DNS 诊断、网络速度测试",
-  "Version": "1.0.0",
+  "Description": "网速检测（下载/上传/延迟/抖动）、WiFi 状态、DNS 诊断、Ping 连通性",
+  "Version": "1.1.0",
   "Author": "HelpDesk",
+  "Folder": "NetworkToolkit",
+  "Tags": [
+    "网络",
+    "WiFi",
+    "DNS",
+    "网速",
+    "测速"
+  ],
   "DllName": "HelpDesk.Plugins.NetworkToolkit.dll",
-  "Tags": ["网络", "WiFi", "DNS", "速度测试"]
+  "Size": 56832,
+  "Files": [
+    {
+      "Path": "HelpDesk.Plugins.NetworkToolkit.dll",
+      "Size": 56832,
+      "Sha256": "c268c9cd3fe46812766013b298c1782cfbf49b42a160b81109051afd7d1c18cb"
+    }
+  ]
 }

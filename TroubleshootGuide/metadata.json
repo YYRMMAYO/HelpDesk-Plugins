@@ -2,8 +2,23 @@
   "Id": "troubleshoot-guide",
   "Name": "故障排除指南",
   "Description": "15 类常见 PC 故障的步骤化修复指南",
-  "Version": "1.0.0",
+  "Version": "1.1.0",
   "Author": "HelpDesk",
+  "Folder": "TroubleshootGuide",
+  "Tags": [
+    "故障",
+    "修复",
+    "指南",
+    "蓝屏",
+    "启动"
+  ],
   "DllName": "HelpDesk.Plugins.TroubleshootGuide.dll",
-  "Tags": ["故障", "修复", "指南", "蓝屏", "启动"]
+  "Size": 14848,
+  "Files": [
+    {
+      "Path": "HelpDesk.Plugins.TroubleshootGuide.dll",
+      "Size": 14848,
+      "Sha256": "8743904819d693d4f55ce532c17fccaa5778d5f412ab536080077cb3c588311f"
+    }
+  ]
 }

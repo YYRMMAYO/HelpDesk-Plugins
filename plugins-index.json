@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "LayoutPrefix": "",
+  "Note": "由 tools/PluginPackager 自动生成于 2026-09-24 21:20:03，请勿手工编辑",
+  "Plugins": [
+    {
+      "Id": "troubleshoot-guide",
+      "Name": "故障排除指南",
+      "Description": "15 类常见 PC 故障的步骤化修复指南",
+      "Version": "1.1.0",
+      "Author": "HelpDesk",
+      "Folder": "TroubleshootGuide",
+      "Tags": [
+        "故障",
+        "修复",
+        "指南",
+        "蓝屏",
+        "启动"
+      ],
+      "DllName": "HelpDesk.Plugins.TroubleshootGuide.dll",
+      "Size": 14848,
+      "Files": [
+        {
+          "Path": "HelpDesk.Plugins.TroubleshootGuide.dll",
+          "Size": 14848,
+          "Sha256": "8743904819d693d4f55ce532c17fccaa5778d5f412ab536080077cb3c588311f"
+        }
+      ]
+    },
+    {
+      "Id": "system-cleaner",
+      "Name": "系统清理",
+      "Description": "扫描并清理当前账户的临时文件，释放磁盘空间",
+      "Version": "1.1.0",
+      "Author": "HelpDesk",
+      "Folder": "SystemCleaner",
+      "Tags": [
+        "清理",
+        "临时文件",
+        "磁盘"
+      ],
+      "DllName": "HelpDesk.Plugins.SystemCleaner.dll",
+      "Size": 19968,
+      "Files": [
+        {
+          "Path": "HelpDesk.Plugins.SystemCleaner.dll",
+          "Size": 19968,
+          "Sha256": "7a831e3a3992d9419f4365b75ca25700e9d24041055fd990fa7e4ba224ae8ffe"
+        }
+      ]
+    },
+    {
+      "Id": "system-diagnostics",
+      "Name": "系统诊断",
+      "Description": "检测 CPU、内存、磁盘使用状态，给出直观的系统健康评分",
+      "Version": "1.1.0",
+      "Author": "HelpDesk",
+      "Folder": "SystemDiagnostics",
+      "Tags": [
+        "诊断",
+        "性能",
+        "硬件",
+        "监控"
+      ],
+      "DllName": "HelpDesk.Plugins.SystemDiagnostics.dll",
+      "Size": 18944,
+      "Files": [
+        {
+          "Path": "HelpDesk.Plugins.SystemDiagnostics.dll",
+          "Size": 18944,
+          "Sha256": "bb603291bcf6b47859f61dd24f2048fc7843c6f95640886f90b9579587f02720"
+        }
+      ]
+    },
+    {
+      "Id": "network-toolkit",
+      "Name": "网络工具",
+      "Description": "网速检测（下载/上传/延迟/抖动）、WiFi 状态、DNS 诊断、Ping 连通性",
+      "Version": "1.1.0",
+      "Author": "HelpDesk",
+      "Folder": "NetworkToolkit",
+      "Tags": [
+        "网络",
+        "WiFi",
+        "DNS",
+        "网速",
+        "测速"
+      ],
+      "DllName": "HelpDesk.Plugins.NetworkToolkit.dll",
+      "Size": 56832,
+      "Files": [
+        {
+          "Path": "HelpDesk.Plugins.NetworkToolkit.dll",
+          "Size": 56832,
+          "Sha256": "c268c9cd3fe46812766013b298c1782cfbf49b42a160b81109051afd7d1c18cb"
+        }
+      ]
+    },
+    {
+      "Id": "software-uninstaller",
+      "Name": "软件卸载",
+      "Description": "安全卸载已安装软件（按注册表登记的官方卸载程序），并清理卸载残留",
+      "Version": "1.1.0",
+      "Author": "HelpDesk",
+      "Folder": "SoftwareUninstaller",
+      "Tags": [
+        "卸载",
+        "软件管理",
+        "残留清理",
+        "提权"
+      ],
+      "DllName": "HelpDesk.Plugins.SoftwareUninstaller.dll",
+      "Size": 55808,
+      "Files": [
+        {
+          "Path": "HelpDesk.Plugins.SoftwareUninstaller.dll",
+          "Size": 55808,
+          "Sha256": "59fc37f3b5f7e1d5e982d767ebac892765f3a5699b21a2bf9a8ee1b66ba47277"
+        }
+      ]
+    }
+  ]
+}

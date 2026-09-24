@@ -1,9 +1,22 @@
 {
   "Id": "system-cleaner",
   "Name": "系统清理",
-  "Description": "清理临时文件、管理启动项、释放磁盘空间",
-  "Version": "1.0.0",
+  "Description": "扫描并清理当前账户的临时文件，释放磁盘空间",
+  "Version": "1.1.0",
   "Author": "HelpDesk",
+  "Folder": "SystemCleaner",
+  "Tags": [
+    "清理",
+    "临时文件",
+    "磁盘"
+  ],
   "DllName": "HelpDesk.Plugins.SystemCleaner.dll",
-  "Tags": ["清理", "临时文件", "启动项", "磁盘"]
+  "Size": 19968,
+  "Files": [
+    {
+      "Path": "HelpDesk.Plugins.SystemCleaner.dll",
+      "Size": 19968,
+      "Sha256": "7a831e3a3992d9419f4365b75ca25700e9d24041055fd990fa7e4ba224ae8ffe"
+    }
+  ]
 }

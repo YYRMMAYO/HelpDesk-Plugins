@@ -1,9 +1,23 @@
 {
   "Id": "system-diagnostics",
   "Name": "系统诊断",
-  "Description": "检测 CPU、内存、磁盘使用状态，监控温度，评估系统健康度",
-  "Version": "1.0.0",
+  "Description": "检测 CPU、内存、磁盘使用状态，给出直观的系统健康评分",
+  "Version": "1.1.0",
   "Author": "HelpDesk",
+  "Folder": "SystemDiagnostics",
+  "Tags": [
+    "诊断",
+    "性能",
+    "硬件",
+    "监控"
+  ],
   "DllName": "HelpDesk.Plugins.SystemDiagnostics.dll",
-  "Tags": ["诊断", "性能", "硬件", "监控"]
+  "Size": 18944,
+  "Files": [
+    {
+      "Path": "HelpDesk.Plugins.SystemDiagnostics.dll",
+      "Size": 18944,
+      "Sha256": "bb603291bcf6b47859f61dd24f2048fc7843c6f95640886f90b9579587f02720"
+    }
+  ]
 }
